@@ -296,7 +296,7 @@ body {
 }
 .vn-icon  { font-size: 28px; margin-bottom: 14px; display: block; }
 .vn-title { font-family: 'Cormorant Garamond', serif; font-size: 21px; color: var(--cream); line-height: 1.35; letter-spacing: .04em; margin-bottom: 7px; }
-.vn-city  { font-family: 'IM Fell English', serif; font-style: italic; font-size: 14px; color: var(--gold); letter-spacing: .15em; margin-bottom: 16px; }
+.vn-city  { font-family: 'IM Fell English', serif; font-style: italic; font-size: 14px; color:  rgba(199, 153, 46, 0.842); letter-spacing: .15em; margin-bottom: 16px; }
 .vn-div   { height: 1px; background: linear-gradient(90deg, transparent, rgba(212,168,67,.27), transparent); margin: 12px 0; }
 .vn-time  { font-family: 'Cinzel', serif; font-size: 10.5px; letter-spacing: .3em; color: rgba(212,168,67,.52); }
 
@@ -327,7 +327,7 @@ body {
 .bless-by {
   font-family: 'Cinzel', serif;
   font-size: 9px; letter-spacing: .5em;
-  color: rgba(212,168,67,.36);
+  color: rgba(212,168,67,.7);
   margin-top: 20px; text-transform: uppercase;
 }
 
@@ -344,7 +344,7 @@ footer {
 .f-txt {
   font-family: 'Cormorant Garamond', serif;
   font-size: 11px; letter-spacing: .22em;
-  color: rgba(212,168,67,.28); font-style: italic;
+  color: rgba(212,168,67,.7); font-style: italic;
 }
 
 /* ════════════════════════════════
